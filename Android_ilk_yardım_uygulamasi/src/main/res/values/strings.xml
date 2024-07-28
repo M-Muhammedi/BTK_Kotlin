@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Paramedik</string>
+
+   <string name="uy1"> UYARI! </string>
+    <string name="uy2">Bu uygulama, acil durumlar ve ilk yardım hakkında bilgi vermek amacıyla tasarlanmıştır.
+        Ancak, acil bir durumda profesyonel tıbbi yardım almak her zaman öncelikli olmalıdır.
+        Uygulamadaki bilgiler sadece eğitim amaçlıdır ve gerçek bir acil durumda profesyonel sağlık personeline başvurulması gerekmektedir.</string>
+
+    <string name="uy3">NOT</string>
+
+    <string name="uy4">Acil bir durumda hemen 112\'yiarayın.</string>
+
+    <string name="uy5">Bu uygulama, sağlık profesyonelleri tarafından sağlanan acil yardımın yerini alamaz.</string>
+
+    <string name="uy6">Uygulama içindeki bilgileri kullanarak herhangi bir müdahalede bulunmadan önce kendi sağlık durumunuzu ve yeteneklerinizi göz önünde bulundurun.</string>
+
+    <string name="uy7"> Sağlıklı ve güvenli günler dileriz!</string>
+
+    </resources>
