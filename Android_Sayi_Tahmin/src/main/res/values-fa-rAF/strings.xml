@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بازی تخمین عداد</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="st_email">mustafa.muhammedi1396@gmail.com</string>
+    <string name="hakkinda">بازی تخمین عداد</string>
+    <string name="hakkinda1">بزودی</string>
+    <string name="hakkinda2">بزودی</string>
+    <string name="hakkinda3">بزودی</string>
+    <string name="hakkinda4">بزودی</string>
+    <string name="btn_tekrar">" شروع مجدد"</string>
+    <string name="btn_tahmin">تخمین بزن</string>
+    <string name="txt_kalan_tahmin5">باقی مانده تخمین  : 5</string>
+    <string name="txt_kalan_tahmin7">باقی مانده تخمین  : 7</string>
+    <string name="txt_kalan_tahmin10">باقی مانده تخمین  : 10</string>
+    <string name="sayi_girin">عدد بنویسید</string>
+    <string name="anasayfa">منو اصلی</string>
+    <string name="kolay">سؤیه آسان</string>
+    <string name="orta">سؤیه متوسط</string>
+    <string name="zor">سؤیه سخت</string>
+    <string name="evet">بله</string>
+    <string name="hayir">نخیر</string>
+    <string name="uygulama_hakinda">درباره برنامه</string>
+    <string name="cikis">خروج</string>
+    <string name="cikismi">آیا میخواهید از برنامه خارج شوید ؟</string>
+    <string name="birsayigir">لطفأ یک عدد تخمینی بنویسید</string>
+    <string name="kalanhak">"باقی مانده  : "</string>
+    <string name="azalt">کم کن</string>
+    <string name="artir">اضافه کن</string>
+    <string name="doru">"عدد صیح "</string>
+    <string name="kazandin">تبریک برنده شدید</string>
+    <string name="kaybittin">باختید دوباره تلاش کنید</string>
+    <string name="birseviye">یک سؤیه انتخاب کنید</string>
+    <string name="radio_kolay">آسان</string>
+    <string name="radio_orta">متوسط</string>
+    <string name="radio_zor">سخت</string>
+    <string name="btn_baslat">شروع بازی</string>
+    <string name="txt_tahmin">بازی تخمین عداد</string>
+</resources>

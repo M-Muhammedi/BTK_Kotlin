@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Number Prediction Game</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="st_email">mustafa.muhammedi1396@gmail.com</string>
+
+    //Uygulama hakkında
+    <string name="hakkinda">Number Prediction Game</string>
+    <string name="hakkinda1">soon</string>
+    <string name="hakkinda2">soon</string>
+    <string name="hakkinda3">soon</string>
+    <string name="hakkinda4">soon</string>
+
+    <string name="btn_tekrar">Restart</string>
+    <string name="btn_tahmin">Guess What</string>
+    <string name="txt_kalan_tahmin5">Time Remaining : 5</string>
+    <string name="txt_kalan_tahmin7">Time Remaining  : 7</string>
+    <string name="txt_kalan_tahmin10">Time Remaining  : 10</string>
+    <string name="sayi_girin">Enter Number</string>
+
+    <string name="anasayfa">Home</string>
+    <string name="kolay">Easy Level</string>
+    <string name="orta">Intermediate</string>
+    <string name="zor">Hard Level</string>
+    <string name="evet">Yes</string>
+    <string name="hayir">No</string>
+    <string name="uygulama_hakinda">About Application</string>
+    <string name="cikis">Exit</string>
+    <string name="cikismi">Do you want to log out ?</string>
+    <string name="birsayigir">Please enter a number...</string>
+
+    <string name="kalanhak">"Remaining guess  :  "</string>
+    <string name="azalt">Decrease</string>
+    <string name="artir">Increase</string>
+    <string name="doru">"Correct number  "</string>
+    <string name="kazandin">You won</string>
+    <string name="kaybittin">You lost</string>
+    <string name="birseviye">Select a level  !!!</string>
+
+    <string name="radio_kolay">Easy</string>
+    <string name="radio_orta">Middle</string>
+    <string name="radio_zor">Difficult</string>
+    <string name="btn_baslat">Start game</string>
+    <string name="txt_tahmin">Number Prediction Game</string>
+
+</resources>

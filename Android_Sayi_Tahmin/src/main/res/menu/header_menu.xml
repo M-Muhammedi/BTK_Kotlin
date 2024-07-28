@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grop1">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/anasayfa"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/kolay"
+        android:title="@string/kolay"
+        android:icon="@drawable/kolay"
+        />
+
+    </group>
+
+    <group
+        android:id="@+id/grop2">
+
+
+    <item
+        android:id="@+id/orta"
+        android:title="@string/orta"
+        android:icon="@drawable/orta"
+        />
+
+    <item
+        android:id="@+id/zor"
+        android:title="@string/zor"
+        android:icon="@drawable/zor"
+        />
+
+</group>
+
+
+    <item
+        android:id="@+id/menu_uygulama"
+        android:title="@string/uygulama_hakinda"
+        android:icon="@drawable/about"/>
+    <item
+        android:id="@+id/menu_cikis"
+        android:title="@string/cikis"
+        android:icon="@drawable/exit"/>
+
+</menu>

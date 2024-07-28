@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SayıTahmin Oyunu</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="st_email">mustafa.muhammedi1396@gmail.com</string>
+    <string name="hakkinda">Sayı Tahmini Oyunu</string>
+    <string name="hakkinda1">" bu uygulama, kullanıcıların sayı tahmin oyununu oynayabilecekleri eğlenceli bir deneyim sunuyor. Uygulama, farklı zorluk seviyeleri sunarak herkesin beceri seviyesine uygun bir oyun deneyimi yaşamasını sağlıyor."</string>
+    <string name="hakkinda2">" Zorluk Seviyeleri: Kolay, Orta ve Zor. Her seviye, farklı bir zorluk derecesi ve oyun dinamiği sunar. Kolay seviyede basit bir oyun deneyimi sunulurken, Zor seviyede daha büyük sayı aralıkları ve daha az tahmin hakkı bulunmaktadır."</string>
+    <string name="hakkinda3">Kullanıcıya Sağladığı İmkanlar: Her bir seviyeyi tamamladığınızda sonuçları görebilir ve istediğiniz seviyeyi tekrar oynayabilirsiniz. Ayrıca, her seviyenin sonunda bir sonuç ekranı bulunmaktadır, bu sayede performansınızı görebilirsiniz.</string>
+    <string name="hakkinda4">Uygulamayı denediğinizde keyifli bir oyun deneyimi geçirmenizi umarım!</string>
+    <string name="btn_tekrar">Tekrar Başlat</string>
+    <string name="btn_tahmin">Tahmin Et</string>
+    <string name="txt_kalan_tahmin5">Kalan Tahmin : 5</string>
+    <string name="txt_kalan_tahmin7">Kalan Tahmin : 7</string>
+    <string name="txt_kalan_tahmin10">Kalan Tahmin : 10</string>
+    <string name="sayi_girin">Sayı Giriniz</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="kolay">Kolay Seviye</string>
+    <string name="orta">Orta Seviye</string>
+    <string name="zor">Zor Seviye</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="uygulama_hakinda">Uygulama Hakkında</string>
+    <string name="cikis">Çıkış</string>
+    <string name="cikismi">Çıkış yapılsın mı ?</string>
+    <string name="birsayigir">Lütfen bir sayı girin</string>
+    <string name="kalanhak">"Kalan Tahmin  :  "</string>
+    <string name="azalt">"Azalt "</string>
+    <string name="artir">"Artır "</string>
+    <string name="doru">"Doğru sayı "</string>
+    <string name="kazandin">Kazandınız</string>
+    <string name="kaybittin">Kaybettiniz</string>
+    <string name="birseviye">Bir Seviye Seçiniz !!!</string>
+    <string name="radio_kolay">Kolay</string>
+    <string name="radio_orta">Orta</string>
+    <string name="radio_zor">Zor</string>
+    <string name="btn_baslat">Oyunu Başlat</string>
+    <string name="txt_tahmin">"Sayı Tahmin Et "</string>
+</resources>
