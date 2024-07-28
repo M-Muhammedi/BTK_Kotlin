@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Paramedik</string>
+
+   <string name="uy1"> Dikkat! </string>
+    <string name="uy2">Bu uygulama yalnızca eğitimli sağlık profesyonelleri ve paramedikler için tasarlanmıştır. Aşağıdaki uyarılara dikkat ediniz:</string>
+
+    <string name="uy3">1. Tıbbi Protokollere Uyun: Bu uygulama, yalnızca acil durumlarda kullanılmak üzere genel tıbbi bilgiler sağlar. Her zaman yerel tıbbi protokollere ve sağlık kurumunuzun yönergelerine uyun.</string>
+
+    <string name="uy4">2. Dozaj ve Kullanım Talimatları: Her ilaç için önerilen dozaj ve kullanım talimatlarına dikkatle uyun. Yanlış dozaj veya kullanım ciddi yan etkilere neden olabilir.</string>
+
+    <string name="uy5">3. Hasta Güvenliği: Hastanın durumunu sürekli olarak izleyin ve gerekli durumlarda üst düzey tıbbi yardımı çağırın. Bu uygulama, tıbbi müdahalede bulunma kararlarınızı desteklemek için tasarlanmıştır, ancak son kararı siz verirsiniz.</string>
+
+    <string name="uy6">4. İlaç Reaksiyonları: İlaçların potansiyel yan etkileri ve kontrendikasyonları hakkında bilgi sahibi olun. Hastanın mevcut durumu ve alerjileri göz önünde bulundurularak ilaç kullanımı yapılmalıdır.</string>
+
+    <string name="uy7"> 5. Güncellemeler ve Bilgilendirme: Uygulamanın güncellemelerini düzenli olarak kontrol edin ve en güncel tıbbi bilgileri ve protokolleri takip edin.</string>
+
+    <string name="uy8">6. Sorumluluk Reddi: Bu uygulama, herhangi bir tıbbi hatadan veya yanlış kullanımdan dolayı sorumluluk kabul etmez. Tüm tıbbi müdahaleler profesyonel tıbbi bilgi ve deneyime dayanmalıdır.</string>
+</resources>
